@@ -1,4 +1,3 @@
-# 💻 Привет, я [Ваше Имя]!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&width=600&lines=Python+%7C+C%23+%7C+TypeScript+разработчик;Люблю+писать+чистый+код;Open+Source+энтузиаст;Постоянно+учусь+новому)](https://git.io/typing-svg)
 
