@@ -1,3 +1,4 @@
+<img width="300" height="300" alt="3dgifmaker22553" src="https://github.com/user-attachments/assets/91f073be-0c4b-4cd5-af4d-f5e064c5a90b" />
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -5,4 +6,3 @@
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blozzzz1)
-
